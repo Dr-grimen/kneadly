@@ -8,17 +8,17 @@ Same arkitektur som Lintly: `shop.js` er einaste staden prisar, fargar og
 Stripe-lenkjer bur. `build_pages.py` lagar undersidene. `verktoy/ordre.html`
 er ordrepulten (ikkje publisert — viser kostpris).
 
-Kjøpsknappen seier «Checkout opens soon» til Stripe-lenkjene er limt inn.
+**LANSERT 6. september 2026.** Kjøpsknappen er «Buy now» og peikar på fire
+Stripe-lenkjer (Black/Grey × 1/2). Support: `kneadlyhelp@gmail.com`.
+Stripe-konto: `acct_1UAxiBEJnbvHfKQY` (døypt om frå Lintly), descriptor KNEADLY,
+dagleg utbetaling til DNB, 3 verkedagar.
 
-## Før lansering
+## Første ordre
 
-1. **E-post.** `kneadlyhelp@gmail.com` er plassholdar; domenet er teke.
-   Bruk ein Gmail. Byt overalt:
-   `sed -i '' 's/support@kneadly\.store/DIN-ADRESSE/g' *.html build_pages.py`
-2. **Stripe.** Fire produkt / fire lenkjer i Kneadly-kontoen (eller ein ny):
-   Black 1 ($79.99), Black 2 ($139.99), Grey 1, Grey 2. Collect shipping address på.
-   Lim inn i `shop.js`.
-3. **Push.** Då blir knappen «Buy now».
+1. Stripe sender e-post → opne `verktoy/ordre.html` → lim inn → «Les ordren».
+2. Kjøp varianten pulten seier (6 GEAR BLACK / 6 GEAR GREY) på AliExpress,
+   lim inn adressa felt for felt, betal med bedriftskortet.
+3. Sporingsnummer inn i pulten → «Lag mailen» → send til kunden.
 
 ## Tala
 

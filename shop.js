@@ -11,8 +11,8 @@ var CONFIG = {
      "Checkout opens soon" i staden for å sende kunden til ei daud side.
   --------------------------------------------------------------------- */
   stripe: {
-    black: { 1: "PASTE_BLACK_1", 2: "PASTE_BLACK_2" },
-    grey:  { 1: "PASTE_GREY_1",  2: "PASTE_GREY_2"  }
+    black: { 1: "https://buy.stripe.com/8x25kDc2v2Jfc9kgXJ2oE06", 2: "https://buy.stripe.com/dRm3cvgiL3Nj2yKfTF2oE07" },
+    grey:  { 1: "https://buy.stripe.com/cNicN5d6zdnTgpA5f12oE08", 2: "https://buy.stripe.com/dRm4gz4A3erX1uG7n92oE09" }
   },
 
   /* --- 2. Prisar (USD). `full` = same antal til einingspris. ---------- */

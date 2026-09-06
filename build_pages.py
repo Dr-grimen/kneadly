@@ -9,7 +9,7 @@ index.html er handskriven og blir IKKJE rørt av dette skriptet.
 
 import pathlib
 
-EMAIL = "support@kneadly.store"          # <-- byt til di eiga adresse
+EMAIL = "kneadlyhelp@gmail.com"          # <-- byt til di eiga adresse
 COMPANY = "Indokalo AS"                 # verifisert mot Brønnøysund 1.9.2026
 ORGNR = "937 822 553"
 ADDRESS = "Nygardsvegen 36, 5419 Fitjar, Norway"

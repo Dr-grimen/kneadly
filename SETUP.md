@@ -12,7 +12,7 @@ Kjøpsknappen seier «Checkout opens soon» til Stripe-lenkjene er limt inn.
 
 ## Før lansering
 
-1. **E-post.** `support@kneadly.store` er plassholdar; domenet er teke.
+1. **E-post.** `kneadlyhelp@gmail.com` er plassholdar; domenet er teke.
    Bruk ein Gmail. Byt overalt:
    `sed -i '' 's/support@kneadly\.store/DIN-ADRESSE/g' *.html build_pages.py`
 2. **Stripe.** Fire produkt / fire lenkjer i Kneadly-kontoen (eller ein ny):

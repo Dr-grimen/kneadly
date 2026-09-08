@@ -157,9 +157,13 @@ som er det som prioriterer Purchase-hendinga etter iOS-sporingsendringane.
 Utan det blir konverteringsmålinga degradert frå dag éin, og du kan ikkje stole
 på tala du brukar til å avgjere om produktet funkar.
 
-`getkneadly.com` eller `trykneadly.com` kostar rundt **120 kr i året**. Mot eit
-testbudsjett på 1 000–2 500 kr er det avrundingsfeil. Kjøp det først, så peikar
-eg GitHub Pages på det og du verifiserer i Meta.
+Sjekka 8. september: `kneadly.com`, `.co`, `.shop`, `.store`, `getkneadly.com`
+og `trykneadly.com` er alle **tekne**. Ledige: **`kneadlymini.com`** (tilrådd —
+det er produktnamnet), `usekneadly.com`, `shopkneadly.com`, `kneadly.net`.
+
+Rundt **120 kr i året**. Mot eit testbudsjett på 1 000–2 500 kr er det
+avrundingsfeil. Kjøp det først, så peikar eg GitHub Pages på det og du
+verifiserer i Meta.
 
 ---
 

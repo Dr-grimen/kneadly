@@ -387,7 +387,7 @@ PAGES["terms.html"] = dict(
     title="Terms of service", crumb="Terms", eyebrow="Legal", h1="Terms of service",
     desc="The terms that apply when you buy from Kneadly.",
     robots="index,follow",
-    body="""    <p>Last updated 1 September 2026. These terms apply to every order placed through this
+    body="""    <p>Last updated 6 September 2026. These terms apply to every order placed through this
        website. Buying something here means you accept them.</p>
 
 """ + LEGAL_ENTITY + """
@@ -464,7 +464,7 @@ PAGES["privacy.html"] = dict(
     title="Privacy policy", crumb="Privacy", eyebrow="Legal", h1="Privacy policy",
     desc="What data Kneadly collects, why, and how to have it deleted.",
     robots="index,follow",
-    body="""    <p>Last updated 1 September 2026. Short version: we collect what an order needs and nothing
+    body="""    <p>Last updated 6 September 2026. Short version: we collect what an order needs and nothing
        else, this website sets no cookies of its own, and you can have your data deleted by asking.</p>
 
 """ + LEGAL_ENTITY + """

@@ -94,6 +94,7 @@ SHELL = """<!DOCTYPE html>
   </div>
 </footer>
 
+<script src="shop.js?v=3"></script>
 </body>
 </html>
 """
